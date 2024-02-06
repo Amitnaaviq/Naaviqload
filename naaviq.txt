@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NaaviQload</title>
+</head>
+
+<link rel="stylesheet" href="Style.css">
+
+<body>
+
+
+
+    <nav>
+
+        <img src="logo.png" width="100px" alt="">
+
+        <a href="Home">Load Market</a>
+        <a href="Home">Lorry Market</a>
+        <a href="Home">Network</a>
+        <a href="Home">Directory</a>
+        <a href="Home">Blogs</a>
+
+
+
+    </nav>
+    <hr>
+
+    <div class="container">
+
+
+        <div class="imagebox">
+
+            <img src="free-online-load-lorry.gif" width="520px" alt="">
+        </div>
+
+
+
+        <div class="freeload">
+
+            <h1>Free load and Lorry booking App</h1>
+            <h5>Join the fastest growing network of verified transporters</h5>
+            <h2 class="heading">0% Commission</h2>
+
+            <div class="button">
+
+                <img src="googleplaystore.png" width="120px" alt="">
+                <img src="iosplaystore.png" width="120px" alt="">
+            </div>
+
+
+
+
+
+            <div class="lorry">
+
+                <a href="#">Live lorry
+                    market</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                <a href="#">Live lorry market</a><br>
+
+                <div class="load">
+
+
+
+                    <div class="search-container">
+                        <input type="text" id="pickup" name="pickup" placeholder="Enter pickup location">
+                        <input type="text" id="dropoff" name="dropoff" placeholder="Enter drop-off location">
+                        <button type="submit">Search</button>
+                    </div>
+
+
+
+                    <div class="banner">
+                      <!--50000 transporters--> 
+                        <img src="banner.png" alt="">
+
+                    </div>
+                    <br>
+
+
+                    <div class="bannerbox">
+                     
+
+                        <img  id="bannerimage" src="banner 2.png" width="" alt="">
+
+                    </div>
+
+
+
+                </div>
+
+            </div>
+
+
+        </div>
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+
+</html>
